@@ -39,7 +39,7 @@ section .container{
   margin: 80px;
 }
 section h1{
-  font-size: 3rem;
+  font-size: 40pt;
   margin: 20px;
 }
 h1.Stalin{
@@ -48,7 +48,7 @@ h1.Stalin{
   margin-right: 4pt;
 }
 h1.Hub{
-  color: darkred;
+  color: crimson;
   background: gold fixed;
   border-radius: 10pt;
 }
