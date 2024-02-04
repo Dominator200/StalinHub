@@ -73,6 +73,7 @@ img {
     display: flex;
     border: 10pt solid darkred;
     border-radius: 20pt;
+    max-width: 300px;
 }
 
 #endimg {
