@@ -73,7 +73,8 @@ img {
     display: flex;
     border: 10pt solid darkred;
     border-radius: 20pt;
-    max-width: 300px;
+    max-width: fit-content;
+    max-height: fit-content;
 }
 
 #endimg {
